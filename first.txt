@@ -1,0 +1,3 @@
+have a clone 
+using a ssh key
+have a nice day!
